@@ -1,9 +1,15 @@
-.awayTeam{
+.linescore{
     border: 2px black solid;
+    padding: 5px;
+}
+
+.awayTeam{
+
     background-color: lightblue;
-    padding: 10px;
+
 }
 
 .homeTeam{
+    background-color: lightcoral;
 
 }
